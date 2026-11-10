@@ -8,10 +8,10 @@ I enjoy turning ideas into functional digital experiences, learning new technolo
 
 ###  Technical Skills
 
-- **Web Development:** HTML, CSS, JavaScript
+- **Web Development:** HTML, CSS, JavaScript, react ,Django 
 - **Programming:** Python, C++
 - **Tools:** Git, GitHub, VS Code
-- **Currently improving:** React, responsive web design, and software development practices
+- **Currently improving:** React native, responsive web design, and software development practices
 
 ###  Featured Projects
 
