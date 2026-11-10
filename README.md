@@ -1,6 +1,6 @@
 # Hi, I'm Maureen Kimani 
 
-### Aspiring Software Developer | Frontend Development | Web Applications
+###  Software Developer | Frontend Development | Web Applications
 
 I'm a Mathematics and Computer Science graduate with a strong interest in building responsive, user-friendly web applications and practical software solutions.
 
